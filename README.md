@@ -4,6 +4,7 @@ A Jupyter Notebook using Python 3 environment on regression analysis of selected
 <b>REMINDER:</b> If this notebook cannot be viewed from this GitHub platform, there are two alternatives to view it:
 1. Download the .ipynb Notebook file and view it using JupyterLab or Jupyter Notebook in your local machine (PCs/Laptops), or
 2. View them online by copying the below link to the Notebook and paste it in this [online Notebook viewer](https://nbviewer.jupyter.org/) :
+<br>https://github.com/azamsuratem/datahub_regression/blob/main/Regression%20Analysis%20on%20DataHub.io%20Extracted%20Data.ipynb
 
 ## Introduction
 This notebook is created to answer these curiosity questions related to the extracted data:
